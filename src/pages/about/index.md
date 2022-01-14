@@ -1,19 +1,26 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Who is @ Large Architect
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Jack of all Trades, Master of none
+I have spend the last couple of decades designing, building, guiding, supporting, and (often) lamenting infrastructure.  I started as a Network guy who could help glue things together, then moved on to helping solve Network problems for some of the biggest names around.  After that I moved in the wild world of OpenSource, where the problems I solve are bigger, the people are more fun, and the solutions are incredible.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Reluctant Adventurer
+Its not rare, but I don't get outside as much as I wish I could because I'm constantly drawn back to the screen for the interesting problems to be solved, but I do enjoy the outdoors.  Whether hiking, hunting, wandering, or just exploring there is just something about being the woods that lifts my spirits.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Dogfather
+I am a sucker for my animals.  Often its thanks to them that I get to go adventuring (like the one time my dog chased a Moose).  Couchtime, backyard time, and hiking time with them are among my favorite things.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Builder
+I love to build things.  Seriously.  All of them.
+- Networks -> Check
+- Code -> Check
+- Home improvements -> Check
+- Legos  -> Check
+- Car projects -> Check
+- Ikea furniture -> Absolutely Not
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Okay, maybe not all of them, but most of them.  There is a significant sense of satisfaction when you can look back and say 'I built this thing'.  Even more satisfaction whe you can add 'and it works' to the end of that sentence.  I make no clames of my proficience, just my enjoyment. :-)
+
+![](/img/brandon_kim.jpg)

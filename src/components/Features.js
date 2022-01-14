@@ -11,12 +11,14 @@ const FeatureGrid = ({ gridItems }) => (
             <div
               style={{
                 width: "240px",
+                height: "200px",
                 display: "inline-block",
               }}
             >
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
+          <h1>{item.head}</h1>
           <p>{item.text}</p>
         </section>
       </div>
@@ -28,6 +30,7 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      head: PropTypes.string,
       text: PropTypes.string,
     })
   ),

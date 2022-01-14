@@ -1,70 +1,38 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: "@ Large Architect"
+image: /img/murray_frozen_lake.png
+heading: Musing of a technical Architect
+subheading: Building things for fun and work
 mainpitch:
-  title: Why Kaldi
+  title: Welcome!
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    This is place for talking about interesting things.  While mostly technically skewed, the content here is a mix of solving problems, building things, and occasionally going outside.
+
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/network.png
+    #- image: /img/products-grid1.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        I spent much of my career as a Network Ninja (TM).  While I now spend less time
+        these days complaining about RIBs, FIBs, reconvergence and VTP, Networking is 
+        still near and dear to my heart.  I am still connected with much of the Networking
+        world, so content here may cover some of this.
+    - image: /img/red_hat.png
+    #- image: /img/products-grid1.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        These days I'm a Red Hatter.  I'm helping customers design and execute using
+        the coolest software and people in Enterprise Open Source.  Most of the content
+        here will reflect this.
+    - image: /img/python.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Am I the world's greatest Python programmer around.  Absolutely not.  That being said
+        I like solving problems, and Python can make that easy.  Whether it be for systems, networks,
+        or just some hackery to find out when my coffee maker will be back in stock on the manufacturer's
+        website, Python helps me get things done, and that is awesome.
+    - image: /img/integration.png
+    #- image: /img/products-grid1.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+        Integrating products/projects/workflows is what makes the world go 'round.  While I am not a developer
+        at heart, I am a guy who likes to build things and connect them (ask me about the Amazon Prime button, that I hooked up to AWS Lambda functions for fun).
 ---
